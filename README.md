@@ -7,3 +7,5 @@ To read more in detail check out my [guest blog post](https://blog.travis-ci.com
 
 
 To switch Kubernetes cluster versions just replace the `1.9.0` version in the `.travis.yml` file.
+
+For `1.10.0` Kubernetes example see the [minikube-26-kube-1.10](https://github.com/LiliC/travis-minikube/tree/minikube-26-kube-1.10) branch.
